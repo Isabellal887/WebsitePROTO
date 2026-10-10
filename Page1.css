@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+.center-text {
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.center-img {
+	align-content: center;
+	
+}
+ 
